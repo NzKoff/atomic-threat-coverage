@@ -49,6 +49,10 @@ ta_mapping = {
     ]
 }
 te_mapping = {
+    "T1551": "t",
+    "T1551.003": "t",
+    "T1551.004": "t",
+    "T1551.006": "t",
     "T1156": ".bash_profile and .bashrc",
     "T1134": "Access Token Manipulation",
     "T1015": "Accessibility Features",
